@@ -4,3 +4,6 @@
 [submodule "fluentd"]
 	path = fluentd
 	url = git@github.com:k8s-team/helm-chart-fluentd.git
+[submodule "kibana"]
+	path = kibana
+	url = git@github.com:k8s-team/helm-chart-kibana.git
