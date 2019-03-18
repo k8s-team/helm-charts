@@ -1,3 +1,6 @@
 [submodule "elasticsearch-singlenode"]
 	path = elasticsearch-singlenode
 	url = git@github.com:k8s-team/helm-chart-elasticsearch-singlenode.git
+[submodule "fluentd"]
+	path = fluentd
+	url = git@github.com:k8s-team/helm-chart-fluentd.git
